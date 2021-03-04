@@ -1,4 +1,4 @@
-# momentum-Clone
+# momentum-clone
 크롬 Extension 중 하나인 Momentum을 Vanilla JS로 구현한다.
 
 ## Features
